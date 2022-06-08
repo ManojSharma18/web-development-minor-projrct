@@ -1,0 +1,41 @@
+
+.container1{
+width:1000px;
+height:auto;
+margin:auto;
+}
+
+@media screen and (max-width:999px){
+.container1{
+width:100%;
+height:auto;
+margin:auto;
+}
+
+img{
+width:100%;
+height:auto;
+}
+
+h1{
+    width:100%;
+    height:auto;
+    }
+
+    p{
+        width:100%;
+        height:auto;
+        }
+
+        iframe{
+            width:100%;
+            height:auto;
+            }
+
+            embed{
+                width:100%;
+                height:auto;
+                }
+}
+
+
